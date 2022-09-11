@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abzal00/forjob-react-app.git/static/css/main.69fd76c1.css",
-    "main.js": "/abzal00/forjob-react-app.git/static/js/main.e30ed1be.js",
-    "static/js/787.4eab6a7f.chunk.js": "/abzal00/forjob-react-app.git/static/js/787.4eab6a7f.chunk.js",
-    "index.html": "/abzal00/forjob-react-app.git/index.html",
-    "main.69fd76c1.css.map": "/abzal00/forjob-react-app.git/static/css/main.69fd76c1.css.map",
-    "main.e30ed1be.js.map": "/abzal00/forjob-react-app.git/static/js/main.e30ed1be.js.map",
-    "787.4eab6a7f.chunk.js.map": "/abzal00/forjob-react-app.git/static/js/787.4eab6a7f.chunk.js.map"
+    "main.css": "/forjob-react-app/static/css/main.69fd76c1.css",
+    "main.js": "/forjob-react-app/static/js/main.ac991c7a.js",
+    "static/js/787.4eab6a7f.chunk.js": "/forjob-react-app/static/js/787.4eab6a7f.chunk.js",
+    "index.html": "/forjob-react-app/index.html",
+    "main.69fd76c1.css.map": "/forjob-react-app/static/css/main.69fd76c1.css.map",
+    "main.ac991c7a.js.map": "/forjob-react-app/static/js/main.ac991c7a.js.map",
+    "787.4eab6a7f.chunk.js.map": "/forjob-react-app/static/js/787.4eab6a7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69fd76c1.css",
-    "static/js/main.e30ed1be.js"
+    "static/js/main.ac991c7a.js"
   ]
 }
