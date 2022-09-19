@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/forjob-react-app/static/css/main.69fd76c1.css",
-    "main.js": "/forjob-react-app/static/js/main.5726ad83.js",
+    "main.js": "/forjob-react-app/static/js/main.3787b305.js",
     "static/js/787.4eab6a7f.chunk.js": "/forjob-react-app/static/js/787.4eab6a7f.chunk.js",
     "index.html": "/forjob-react-app/index.html",
     "main.69fd76c1.css.map": "/forjob-react-app/static/css/main.69fd76c1.css.map",
-    "main.5726ad83.js.map": "/forjob-react-app/static/js/main.5726ad83.js.map",
+    "main.3787b305.js.map": "/forjob-react-app/static/js/main.3787b305.js.map",
     "787.4eab6a7f.chunk.js.map": "/forjob-react-app/static/js/787.4eab6a7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69fd76c1.css",
-    "static/js/main.5726ad83.js"
+    "static/js/main.3787b305.js"
   ]
 }
